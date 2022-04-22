@@ -1,5 +1,5 @@
 ### Welcome 👋
-<p> 🌱 I’m currently learning Java, Javascript, SQL and some Linux scripting. </p>
+<p> 🌱 I’m currently learning Java, HTML, CSS, Javascript, SQL and some Linux scripting. </p>
 <p>💬 I speak Spanish and English, Spanish being my mother tongue.</p>
  
 <!--
