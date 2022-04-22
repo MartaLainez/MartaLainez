@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Welcome 👋
+<p> 🌱 I’m currently learning Java, Javascript, SQL and some Linux scripting. </p>
+<p>💬 I speak Spanish and English, Spanish being my mother tongue.</p>
+ 
 <!--
 **MartaLainez/MartaLainez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
